@@ -28,7 +28,7 @@ The following updates were made to the provided [Python file](https://github.com
     import pandas as pd
     import hashlib
 
-## Testing the PyChain Ledger
+## Testing the PyChain Ledger - Web Interface Screenshot
 
 
 Verify the block contents and hashes in the Streamlit dropdown menu. Take a screenshot of the Streamlit application page, which should detail a blockchain that consists of multiple blocks. 
