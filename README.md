@@ -3,7 +3,8 @@
 ![image](https://user-images.githubusercontent.com/99493522/176976713-e48173f6-63be-42d7-b310-08b0e6ed4df4.png)
 
 ## Background
-In this assignment, working as a fintech engineer at one of the five largest banks in the world. The task was to build a blockchain-based ledger system, complete with a user-friendly web interface. This ledger should allow partner banks to conduct financial transactions (that is, to transfer money between senders and receivers) and to verify the integrity of the data in the ledger.
+In this assignment, working as a fintech engineer at one of the five largest banks in the world. The task was to build a blockchain-based ledger system, complete with a user-friendly web interface, created using **Streamlit**. This ledger should allow partner banks to conduct financial transactions (that is, to transfer money between senders and receivers) and to verify the integrity of the data in the ledger.
+
 The following updates were made to the provided [Python file](https://github.com/ChantalAG/PyChain-Ledger/blob/main/pychain.py) for this assignment, which already contains the basic PyChain ledger structure that was created throughout the module:
 
 
@@ -28,13 +29,18 @@ The following updates were made to the provided [Python file](https://github.com
     import pandas as pd
     import hashlib
 
-## Testing the PyChain Ledger - Web Interface Screenshot
+## Testing the PyChain Ledger - Web Interface Screenshots
 
 
 Verify the block contents and hashes in the Streamlit dropdown menu. Take a screenshot of the Streamlit application page, which should detail a blockchain that consists of multiple blocks. 
 
+![image](https://user-images.githubusercontent.com/99493522/177002636-222c8b7f-0b8e-411e-ba33-a0d30865a5ac.png)
+
+
 Test the blockchain validation process by using the web interface. Take a screenshot of the Streamlit application page, which should indicate the validity of the blockchain.
-![image](https://user-images.githubusercontent.com/99493522/176977446-2e8409cf-ce82-4636-be00-0e24e708a339.png)
+
+![image](https://user-images.githubusercontent.com/99493522/177002653-ca483a26-a30c-48ea-9a98-e49629871953.png)
+
 
 ## Contributors
 Chantal Garnett
